@@ -47,7 +47,7 @@
                 Initially, the image will have the background tshirt that has transparency
                 So we can simply update the color with CSS or JavaScript dinamically
             -->
-            <img id="tshirt-backgroundpicture" src="./background_tshirt.png"/>
+            <img id="tshirt-backgroundpicture" src="./white-tshirt.png"/>
 
             <div id="drawingArea" class="drawing-area">					
                 <div class="canvas-container">
